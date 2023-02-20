@@ -1,0 +1,191 @@
+[
+  {
+    "id": "0",
+    "imageUrl": "https://img.ostin.com/upload/mdm/media_content/resize/910/369_482_16c5/56506830299.jpg",
+    "title": "Джемпер с принтом",
+    "sizes": ["s", "M", "L", "XL", "XXL"],
+    "price": 1509,
+    "category": 2,
+    "rating": 4
+  },
+  {
+    "id": "1",
+    "imageUrl": "https://img.ostin.com/upload/mdm/media_content/resize/e0b/293_387_6a45/68887370299.jpg",
+    "title": "Базовый свитшот",
+    "sizes": ["s", "M", "L", "XL", "XXL"],
+    "price": 909,
+    "category": 2,
+    "rating": 5
+  },
+  {
+    "id": "2",
+    "imageUrl": "https://img.ostin.com/upload/mdm/media_content/resize/ca1/293_387_6958/57153050299.jpg",
+    "title": "Шифоновое платье с валанами",
+    "sizes": ["s", "M", "L", "XL", "XXL"],
+    "price": 999,
+    "category": 1,
+    "rating": 3
+  },
+  {
+    "id": "3",
+    "imageUrl": "https://img.ostin.com/upload/mdm/media_content/resize/3a9/293_387_3871/71673890299.jpg",
+    "title": "Платье из экокожи на запах",
+    "sizes": ["s", "M", "L", "XL", "XXL"],
+    "price": 999,
+    "category": 1,
+    "rating": 2
+  },
+  {
+    "id": "4",
+    "imageUrl": "https://img.ostin.com/upload/mdm/media_content/resize/ddc/293_387_e1ae/73286120299.jpg",
+    "title": "Трикотажное платье",
+    "sizes": ["s", "M", "L", "XL", "XXL"],
+    "price": 2999,
+    "category": 1,
+    "rating": 4
+  },
+  {
+    "id": "5",
+    "imageUrl": "https://img.ostin.com/upload/mdm/media_content/resize/eb4/293_387_d497/70238030299.jpg",
+    "title": "Трикотажное платье с вовротником-стойкой",
+    "sizes": ["s", "M", "L", "XL", "XXL"],
+    "price": 999,
+    "category": 1,
+    "rating": 4
+  },
+  {
+    "id": "6",
+    "imageUrl": "https://img.ostin.com/upload/mdm/media_content/resize/11a/293_387_a360/73230940299.jpg",
+    "title": "Трикотажное платье с воротником-поло",
+    "sizes": ["s", "M", "L", "XL", "XXL"],
+    "price": 1999,
+    "category": 1,
+    "rating": 4
+  },
+  {
+    "id": "7",
+    "imageUrl": "https://img.ostin.com/upload/mdm/media_content/resize/a87/293_387_3846/73159160299.jpg",
+    "title": "Жакет с валевым воротником",
+    "sizes": ["s", "M", "L", "XL", "XXL"],
+    "price": 3499,
+    "category": 2,
+    "rating": 4
+  },
+  {
+    "id": "8",
+    "imageUrl": "https://img.ostin.com/upload/mdm/media_content/resize/c08/293_387_d94f/69526930299.jpg",
+    "title": "Жакет текстурнной вязки",
+    "sizes": ["s", "M", "L", "XL", "XXL"],
+    "price": 2399,
+    "category": 2,
+    "rating": 4
+  },
+  {
+    "id": "9",
+    "imageUrl": "https://img.ostin.com/upload/mdm/media_content/resize/04d/293_387_371b/76569360299.jpg",
+    "title": "Худи с принтом",
+    "sizes": ["s", "M", "L", "XL", "XXL"],
+    "price": 2599,
+    "category": 2,
+    "rating": 4
+  },
+  {
+    "id": "10",
+    "imageUrl": "https://img.ostin.com/upload/mdm/media_content/resize/f41/293_387_490c/70237150299.jpg",
+    "title": "Трикатажное платье с ассиметричным вырезом",
+    "sizes": ["s", "M", "L", "XL", "XXL"],
+    "price": 999,
+    "category": 1,
+    "rating": 5
+  },
+  {
+    "id": "11",
+    "imageUrl": "https://img.ostin.com/upload/mdm/media_content/resize/805/293_387_479b/69923260299.jpg",
+    "title": "Платье на запах из поливискозы",
+    "sizes": ["s", "M", "L", "XL", "XXL"],
+    "price": 999,
+    "category": 1,
+    "rating": 5
+  },
+  {
+    "id": "12",
+    "imageUrl": "https://img.ostin.com/upload/mdm/media_content/resize/dd0/293_387_5c45/73158610299.jpg",
+    "title": "базовая рубашка",
+    "sizes": ["s", "M", "L", "XL", "XXL"],
+    "price": 1299,
+    "category": 2,
+    "rating": 5
+  },
+  {
+    "id": "13",
+    "imageUrl": "https://img.ostin.com/upload/mdm/media_content/resize/c28/293_387_9b97/73158600299.jpg",
+    "title": "базовая рубашка",
+    "sizes": ["s", "M", "L", "XL", "XXL"],
+    "price": 1299,
+    "category": 2,
+    "rating": 5
+  },
+  {
+    "id": "14",
+    "imageUrl": "https://img.ostin.com/upload/mdm/media_content/resize/c49/293_387_485b/75104710299.jpg",
+    "title": "Рубашка Slim Fit из поплина",
+    "sizes": ["s", "M", "L", "XL", "XXL"],
+    "price": 1299,
+    "category": 2,
+    "rating": 5
+  },
+  {
+    "id": "15",
+    "imageUrl": "https://img.ostin.com/upload/mdm/media_content/resize/b98/293_387_ed26/74250340299.jpg",
+    "title": "Клетчатая юбка в складку",
+    "sizes": ["s", "M", "L", "XL", "XXL"],
+    "price": 1999,
+    "category": 1,
+    "rating": 5
+  },
+  {
+    "id": "16",
+    "imageUrl": "https://img.ostin.com/upload/mdm/media_content/resize/ad1/293_387_55d4/69354950299.jpg",
+    "title": "Мини-юбка А-силуэта",
+    "sizes": ["s", "M", "L", "XL", "XXL"],
+    "price": 599,
+    "category": 1,
+    "rating": 5
+  },
+  {
+    "id": "17",
+    "imageUrl": "https://img.ostin.com/upload/mdm/media_content/resize/659/293_387_f6fb/70236580299.jpg",
+    "title": "Мини-юбка из твида",
+    "sizes": ["s", "M", "L", "XL", "XXL"],
+    "price": 599,
+    "category": 1,
+    "rating": 5
+  },
+  {
+    "id": "18",
+    "imageUrl": "https://img.ostin.com/upload/mdm/media_content/resize/c59/293_387_9cf7/70581770299.jpg",
+    "title": "Базовая водолазка",
+    "sizes": ["s", "M", "L", "XL", "XXL"],
+    "price": 1199,
+    "category": 1,
+    "rating": 4
+  },
+  {
+    "id": "19",
+    "imageUrl": "https://img.ostin.com/upload/mdm/media_content/resize/677/293_387_1c6a/74791690299.jpg",
+    "title": "Брюки-чиносы Carrot",
+    "sizes": ["s", "M", "L", "XL", "XXL"],
+    "price": 2799,
+    "category": 2,
+    "rating": 5
+  },
+  {
+    "id": "20",
+    "imageUrl": "https://img.ostin.com/upload/mdm/media_content/resize/613/293_387_ef8f/74791490299.jpg",
+    "title": "Брюки-чиносы Carrot",
+    "sizes": ["s", "M", "L", "XL", "XXL"],
+    "price": 2799,
+    "category": 2,
+    "rating": 5
+  }
+]
